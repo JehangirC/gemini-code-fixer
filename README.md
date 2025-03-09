@@ -27,7 +27,7 @@ cd gemini-code-fixer
 
 2. Install required packages:
 ```bash
-uiv pip install .
+uv pip install .
 ```
 
 3. Export your Google Cloud Project ID:
